@@ -1,0 +1,11 @@
+Package: modcubfilt
+Title: A 'shiny' Module for creating filters within 'cuborg'
+Version: 0.1
+License: MIT + file LICENSE
+Author: Yadu Balehosur <yadu@vizualytics.com>
+Maintainer: Yadu Balehosur <yadu@vizualytics.com>
+Description: This module creates, saves, selects, and applies saved filters for use along with a query, report or dashboard.
+NeedsCompilation: no
+Imports: shiny, shinyBS, shinyWidgets, shinydashboard, shinydashboardPlus, libcubmeta, DT, dplyr, libcubolap
+Packaged: 2020-07-19 02:28:52 UTC; cubot
+RoxygenNote: 7.0.1
